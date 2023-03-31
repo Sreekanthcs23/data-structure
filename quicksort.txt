@@ -1,0 +1,6 @@
+lewis ham 3.120000 3.430000
+mick sch 23.299999 30.500000
+carlos sainz 32.500000 35.500000
+charles leclerc 32.599998 40.099998
+max ver 33.400002 35.299999
+Time taken: 8.000000
